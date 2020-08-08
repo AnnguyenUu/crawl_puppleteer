@@ -1,0 +1,24 @@
+{
+  "name": "crawl_puppleteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "image-downloader": "^4.0.1",
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnguyenUu/crawl_puppleteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnguyenUu/crawl_puppleteer/issues"
+  },
+  "homepage": "https://github.com/AnnguyenUu/crawl_puppleteer#readme"
+}
